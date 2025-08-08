@@ -15,21 +15,23 @@
     "@radix-ui/react-separator": "^1.1.0",
     "@radix-ui/react-slot": "^1.1.0",
     "@rainbow-me/rainbowkit": "^2.1.6",
-    "@rainbow-me/rainbowkit-siwe-next-auth": "^0.4.1",
+    "@rainbow-me/rainbowkit-siwe-next-auth": "^0.5.0",
     "@tanstack/react-query": "^5.51.11",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
-    "ethers": "^6.0.0",
-    "lucide-react": "^0.441.0",
+
+    "ethers": "^5",
+    "lucide-react": "^0.525.0",
+
     "next": "^14.2.9",
     "next-auth": "^4.24.7",
-    "next-themes": "^0.3.0",
+    "next-themes": "^0.4.6",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "siwe": "^2",
     "tailwind-merge": "^2.5.2",
     "tailwindcss-animate": "^1.0.7",
-    "viem": "2.17.0",
+    "viem": "2.31.2",
     "wagmi": "^2.12.9"
   },
   "devDependencies": {
